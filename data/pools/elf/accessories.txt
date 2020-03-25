@@ -1,0 +1,12 @@
+an ancient blade
+a [1]$1{2}(unique gem)(piece of jewelry)*
+a finely-crafted [1]$1{2}(longsword)(bow)*
+a tome of mystic lore
+the journal of an ancient scholar
+a sword etched with ancient runes
+a staff with a [1] crystal set at the [2]$1{6}(glittering green)(moon-white)(smoky gray)(blood-red)(deep, starry blue)(gentle amber)*2{3}(top)(bottom)(center)*
+arrows fletched with the feathers of a fey [1]$1{6}(eagle)(hawk)(owl)(raven)(phoenix)(swan)*
+several vials of healing potions
+a cache of useful herbs
+a silver flute
+a golden harp

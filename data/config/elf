@@ -1,0 +1,4 @@
+Elf
+firstNames data/pools/elf/firstNames.txt 100
+accessories data/pools/elf/accessories.txt 30
+hair data/pools/elf/hairstyles.txt 30
